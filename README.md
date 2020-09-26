@@ -1,3 +1,17 @@
+# Github Pages
+
+paltannistha.github.io
+
+### How to edit?
+- Download Visual Studio Code.
+- Install Extension Live Server,
+- Download this repo.
+- Open Folder in VSCode after extracting.
+- Update files (index.html) and edit accordingly.
+- Right click and Run Live Server.
+
+# Page Creation Credits
+
 Massively by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
